@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Testing
+.pytest_cache/
+.coverage
+
+# Data & Models
+*.csv
+*.pkl
+*.joblib
+
+# Gradio
+.gradio/
+
+# Environment
+.env
+
+# OS
+.DS_Store
+Thumbs.db
